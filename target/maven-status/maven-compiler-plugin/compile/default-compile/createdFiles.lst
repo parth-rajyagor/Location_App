@@ -1,0 +1,14 @@
+com\example\locationapp\District.class
+com\example\locationapp\Pincode.class
+com\example\locationapp\City.class
+com\example\locationapp\CityRepository.class
+com\example\locationapp\LocationController.class
+com\example\locationapp\LocationAppApplication.class
+com\example\locationapp\State.class
+com\example\locationapp\CountryRepository.class
+com\example\locationapp\StateRepository.class
+com\example\locationapp\PincodeRepository.class
+com\example\locationapp\Country.class
+com\example\locationapp\LocationSelection.class
+com\example\locationapp\LocationSelectionRepository.class
+com\example\locationapp\DistrictRepository.class
